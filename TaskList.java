@@ -1,7 +1,3 @@
-/*
-Evan Lonczak
-I pledge my honor that I have abided by the Stevens Honor System.
- */
 import java.util.Iterator;
 
 public class TaskList<E> {
